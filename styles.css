@@ -105,6 +105,14 @@ body{
 	color: #000000;
 	font-weight: 700;
 }
+#phone1{
+	color: #000000;
+	font-weight: 700;
+}
+#age{
+	color: #000000;
+	font-weight: 700;
+}
 #scan{
     background-image: url("images/qr.svg");
     background-size: 35px;
