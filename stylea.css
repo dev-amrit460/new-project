@@ -1,5 +1,6 @@
 body{
 	background-image: url("https://webgradients.com/public/webgradients_png/031%20Blessing.png");
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;

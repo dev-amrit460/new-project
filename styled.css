@@ -1,5 +1,6 @@
 body{
 	background-image: url(https://papers.co/wallpaper/papers.co-sh72-pastel-icecream-gradation-blur-36-3840x2400-4k-wallpaper.jpg);
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;

@@ -1,5 +1,6 @@
 body{
 	background-image: url("https://wallpaperaccess.com/full/340541.jpg");
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;

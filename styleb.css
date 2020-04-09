@@ -1,5 +1,6 @@
 body{
 	background-image: url("https://cdn.hipwallpaper.com/i/67/64/LijZqG.jpg");
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;

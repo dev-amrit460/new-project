@@ -1,5 +1,6 @@
 body{
 	background-image: url("https://images.currency.com/dbaaaa9a/0516/52c5/8445/726ba80acb44/on_page/shutterstock-1285901983.jpg");
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;

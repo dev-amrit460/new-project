@@ -1,5 +1,6 @@
 body{
 	background-image: url("https://www.itl.cat/pngfile/big/99-992191_wallpaper-linear-gradient-green-blue-spring-green-dark.jpg");
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;

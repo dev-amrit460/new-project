@@ -1,5 +1,6 @@
 body{
 	background-image: url("https://i.pinimg.com/originals/41/7b/48/417b487ef7dc7281dd0b50f51047b04d.png");
+	background-repeat: repeat;
 }
 #list{
 	color: aliceblue;
